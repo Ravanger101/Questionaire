@@ -1,2 +1,2 @@
-# Quiz-In_PYTHON
-This is a Simple Quizzes Asker In Python 3.9
+# Quiz
+## Better be ready for Rapid questions. And don't browse code for the Answer.
