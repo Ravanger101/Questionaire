@@ -1,2 +1,1 @@
-# Quiz
-## Better be ready for Rapid questions. And don't browse code for the Answer.
+A Command line based Questionaire made using Python 3.11
